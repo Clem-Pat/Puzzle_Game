@@ -8,11 +8,11 @@ Règles:
 Execution:
     Choisissez le nombre de pièces avec lequel vous voulez jouer (première ligne du code)
     Executez le programme (aucun appel de fonction n'est nécessaire)
-    
+
 # Puzzle Game :
 
 Rules:
     Place the pieces of the puzzle back in the right order by clicking on them.
 Execution:
-    Choose the number of pieces you want to play with (first line of the code) 
-    Execute the programm (no fonction appeal is needed)
+    Choose the number of pieces you want to play with (first line of the code)
+    Execute the programm (no fonction appeal is needed) 
